@@ -6,7 +6,7 @@ This repository contains a Terraform configuration to set up a basic AWS infrast
 
 - [Terraform](https://www.terraform.io/downloads.html) installed on your local machine.
 - An AWS account with appropriate permissions to create resources.
-- AWS CLI configured with your credentials or the ability to provide access keys directly in the Terraform configuration (not recommended for production).
+- AWS CLI configured with your credentials or the ability to provide access keys directly in the Terraform configuration.
 
 ## Configuration Overview
 
